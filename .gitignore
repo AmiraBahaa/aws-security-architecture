@@ -1,0 +1,8 @@
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.tfvars
+!terraform.tfvars.example
+rotation_lambda.zip
+.DS_Store
